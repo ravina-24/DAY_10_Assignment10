@@ -12,6 +12,7 @@ namespace DAY_10_Assignment10
             int x1, x2, x3, y1, y2, y3;
 
 
+
             Console.WriteLine("Enter value of x1 = ");
             x1 = Convert.ToInt32(Console.ReadLine());
 
